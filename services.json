@@ -1,0 +1,19 @@
+{
+  "services": {
+    "cloud-object-storage": {
+      "target": "us-south",
+      "resource_group": "29f5b3716d864498985b9725c649ad79",
+      "service-endpoints": "p"
+    },
+    "mongodb": {
+      "target": "us-east",
+      "aa": "a"
+    },
+    "databases-for-redis": {
+      "target": "us-east"
+    },
+    "databases-for-postgresql": {
+      "target": "bluemix-us-east"
+    }
+  }
+}
